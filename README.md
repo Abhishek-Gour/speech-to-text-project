@@ -48,13 +48,10 @@ npm install
 cd server
 npm run dev
 
-# Start backend
-cd server
-npm run dev
 
 # Start backend
 cd backend
-npm run dev
+npm server.js
 
 # Start frontend
 cd /frontend
